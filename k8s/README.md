@@ -1,6 +1,5 @@
 
-# ArgoCD Setup on Minikube - Unique Presentation
-
+### "Implemented GitOps pipeline using ArgoCD and Kubernetes"
 Welcome to this guide where we will walk through the steps of setting up ArgoCD on Minikube and deploying applications using GitOps.
 
 ## 🚀 Prerequisites
