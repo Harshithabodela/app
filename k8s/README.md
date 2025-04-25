@@ -1,4 +1,7 @@
 
+
+<img width="1440" alt="Screenshot 2025-04-25 at 8 42 44 PM" src="https://github.com/user-attachments/assets/d6061eb6-f300-433b-9906-89a5ffc81d33" />
+
 ### "Implemented GitOps pipeline using ArgoCD and Kubernetes"
 Welcome to this guide where we will walk through the steps of setting up ArgoCD on Minikube and deploying applications using GitOps.
 
